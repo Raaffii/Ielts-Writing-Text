@@ -7,3 +7,10 @@
 - AI-powered writing feedback
 - Band score estimation (Task Achievement, Coherence, Vocabulary, Grammar)
 - Simple and clean user interface
+
+## 🛠️ Tech Stack (MERN)
+
+- **MongoDB** – Data storage (optional: user submissions, writing history)
+- **Express.js** – Backend framework
+- **React.js** – Frontend UI
+- **Node.js** – Runtime environment
